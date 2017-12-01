@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://metroviewipoh.com/pricing/pricing/</loc>
+    <loc>https://metroviewipoh.com/services/1_dsth/</loc>
   </url>
   
   <url>
-    <loc>https://metroviewipoh.com/about/</loc>
-    <priority>0</priority>
+    <loc>https://metroviewipoh.com/services/2_dsth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/3_ssth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/4_dsth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/5_dsth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/6_sssd/</loc>
   </url>
   
   <url>
@@ -22,12 +37,8 @@
   </url>
   
   <url>
-    <loc>https://metroviewipoh.com/pricing/</loc>
+    <loc>https://metroviewipoh.com/services/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://metroviewipoh.com/about/about/</loc>
   </url>
   
   <url>
