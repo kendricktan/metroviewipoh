@@ -1,0 +1,27 @@
+baseURL = "https://metroviewipoh.com/"
+languageCode = "en-us"
+title = "Metro View Development Ipoh"
+theme = "landingpage"
+canonifyUrls = "true"
+
+[params]
+    description = "Designed for your comfort"
+    googleAnalytics = 'UA-71060764-13'
+
+[[params.social]]
+    title = "tansengleong@yahoo.com"
+    icon = "envelope-o"
+    url = "mailto:tansengleong@yahoo.com"
+
+[[params.social]]
+    title = "Medan Pengkalan Setia"
+    icon = "map-marker"
+    url = "https://www.google.com.au/maps/dir/''/Medan+Pengkalan+Setia/@4.5454491,101.052096,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x31caeebb9a1b9f1b:0x48897ba38e61fce5!2m2!1d101.0871155!2d4.5454499"
+
+[[params.social]]
+    title = "0165420095"
+    icon = "phone"
+
+[[params.social]]
+    title = "+60165420095"
+    icon = "whatsapp"

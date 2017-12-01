@@ -1,0 +1,78 @@
+[
+    {
+        "name": "",
+        "link": "",
+        "linkText": "",
+        "features": [
+            {
+                "name": "Bedroom",
+                "description": "with feature 2 you can..."
+            },
+            {
+                "name": "Bathroom",
+                "description": ""
+            },
+            {
+                "name": "Size",
+                "description": ""
+            },
+            {
+                "name": "Free Security"                
+            },
+            {
+                "name": "Free Auto Gate Wiring"                
+            },            
+            {
+                "name": "Cash rebate",
+                "description": ""
+            }            
+        ]
+    },
+    {
+        "name": "RM 378,800",        
+        "features": [
+            {
+                "name": "5"                
+            },
+            {
+                "name": "4"
+            },
+            {
+                "name": "22' x 70'"                
+            },
+            {
+                "name": "✘"                
+            },
+            {
+                "name": "✘"                
+            },
+            {
+                "name": "✔"                
+            }
+        ]
+    },
+    {
+        "name": "RM 438,800",        
+        "features": [
+            {
+                "name": "5"                
+            },
+            {
+                "name": "4"
+            },
+            {
+                "name": "24' x 75'"                
+            },
+            {
+                "name": "✔"                
+            },
+            {
+                "name": "✔"                
+            },
+            {
+                "name": "✔"                
+            }
+        ]
+    }
+
+]
