@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://metroviewipoh.com/services/1_dsth/</loc>
-  </url>
-  
-  <url>
-    <loc>https://metroviewipoh.com/services/2_dsth/</loc>
-  </url>
-  
-  <url>
-    <loc>https://metroviewipoh.com/services/3_ssth/</loc>
-  </url>
-  
-  <url>
-    <loc>https://metroviewipoh.com/services/4_dsth/</loc>
-  </url>
-  
-  <url>
-    <loc>https://metroviewipoh.com/services/5_dsth/</loc>
-  </url>
-  
-  <url>
-    <loc>https://metroviewipoh.com/services/6_sssd/</loc>
-  </url>
-  
-  <url>
-    <loc>https://metroviewipoh.com/categories/</loc>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>https://metroviewipoh.com/</loc>
@@ -37,12 +7,35 @@
   </url>
   
   <url>
-    <loc>https://metroviewipoh.com/services/</loc>
-    <priority>0</priority>
+    <loc>https://metroviewipoh.com/services/1_DSTH/</loc>
   </url>
   
   <url>
-    <loc>https://metroviewipoh.com/tags/</loc>
+    <loc>https://metroviewipoh.com/services/2_DSTH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/3_SSTH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/4_DSTH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/5_DSTH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/6_SSSD/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/7_DSTH/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metroviewipoh.com/services/</loc>
     <priority>0</priority>
   </url>
   

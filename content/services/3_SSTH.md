@@ -1,10 +1,13 @@
 ---
-Title: 3. Single Story Terrance House (19 Units - 22'x70')
+Title: Phase 3 - 22’x70’ Single Terrace House
 Img: 3_SSTH.jpg
 ---
 
-* Estimated Completion Date: JUN 2018
-* LAST ONE (Corner Unit: RM 380,000)
+* Total units: 19 units
+* Construction in Progress.
+    - Estimated Completion Date: Jun 2018
+* LAST unit available
+    - From RM380,000
 * Promotional deals:
-    - Free Legal fees and stamp duty on transfer
-    - Free 1 year security
+    - Free Legal Fees on transfer
+    - Free 1 year security service

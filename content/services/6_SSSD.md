@@ -1,10 +1,12 @@
 ---
-Title: 6. Single Story Semi-D (8 Units)
+Title: Phase 6 - 40’x92’/112’ Single Storey Semi-D
 Img: 6_SSSD.jpg
 ---
 
-* Estimated Completion Dec 2018
-* From RM 436,800
+* Total units: 8 units
+* Construction in Progress.
+    - Estimated Completion Date: Dec 2018
+* From RM436,800
 * Promotional deals:
-    - Free Legal fees on transfer
-    - Free 1 year security
+    - Free Legal Fees & Stamp Duty on transfer
+    - Free 1 year security service

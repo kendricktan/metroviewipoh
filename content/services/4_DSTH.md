@@ -1,11 +1,13 @@
 ---
-Title: 4. Double Story Terrance House (20 Units - 22'x70')
+Title: Phase 4 - 22’x70’ Double Storey Terrace House
 Img: 4_DSTH.jpg
 ---
 
-* Estimated Completion Date: Dec 2018
-* From RM 388,800
+* Total units: 20 units
+* Construction in Progress.
+    - Estimated Completion Date: Dec 2018
+* From RM388,800
 * Promotional deals:
-    - Early bird discount: RM 5,000
-    - Free Legal fees and stamp duty on transfer
-    - Free 1 year security
+    - RM5,000 Early Bird Discount
+    - Free Legal Fees on transfer
+    - Free 1 year security service
