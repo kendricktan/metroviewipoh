@@ -4,7 +4,7 @@ Img: 3_SSTH.jpg
 ---
 
 * Total units: 19 units
-* Construction in Progress.
+* Construction in Progress
     - Estimated Completion Date: Jun 2018
 * LAST unit available
     - From RM380,000
