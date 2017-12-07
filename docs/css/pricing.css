@@ -68,14 +68,14 @@ are kept in here in case we use them later.
 .Rtable-cell {
   margin: -3px 0 1 -3px;
   background-color: white;
-  border-color: #ebccd1;
+  border-color: #cce2eb;
 }
 /* Cell styles
 ================================== */
 .Rtable-cell--head {
-  color: #a94442;
-  background-color: #f2dede;
-  border-color: #ebccd1;
+  color: #426fa9;
+  background-color: #dee2f2;
+  border-color: #ccdceb;
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
   border-top-left-radius: 5px;
@@ -87,7 +87,7 @@ are kept in here in case we use them later.
 .Rtable-cell--head > h4,
 .Rtable-cell--head > h5,
 .Rtable-cell--head > h6 {
-  color: #a94442;
+  color: #4252a9;
 }
 .Rtable-cell--foot {
     border-bottom-left-radius: 5px;
