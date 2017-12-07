@@ -1,5 +1,5 @@
 ---
-Title: Phase 3 - 22’x70’ Single Terrace House
+Title: Phase 3 - 22’x70’ Single Storey Terrace House
 Img: 3_SSTH.jpg
 ---
 
@@ -7,7 +7,7 @@ Img: 3_SSTH.jpg
 * Construction in Progress
     - Estimated Completion Date: Jun 2018
 * LAST unit available
-    - From RM380,000
+    - From RM380,000 (Corner Unit)
 * Promotional deals:
     - Free Legal Fees on transfer
     - Free 1 year security service
