@@ -8,5 +8,5 @@ Img: 6_SSSD.jpg
     - Estimated Completion Date: Dec 2018
 * From RM436,800
 * Promotional deals:
-    - Free Legal Fees & Stamp Duty on transfer
+    - Discount up to RM16,888
     - Free 1 year security service

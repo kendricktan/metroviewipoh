@@ -4,9 +4,8 @@ Img: 1_DSTH.jpg
 ---
 
 * Total units: 36 units
-* LAST 3 units available
-    - From RM430,000
+* LAST UNIT (with 10' extra land)
     - 0% Downpayment
 * Promotional deals:
-    - Free Legal Fees and Stamp duty on transfer
-    - Free 1 year security service
+    - Discount up to RM16,888
+    - Free Legal Fees on Transfer
