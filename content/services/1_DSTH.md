@@ -7,5 +7,6 @@ Img: 1_DSTH.jpg
 * LAST UNIT (with 10' extra land)
     - 0% Downpayment
 * Promotional deals:
-    - Discount up to RM16,888
+    - Discount up to RM8,000
     - Free Legal Fees on Transfer
+    - Free 1 year security service

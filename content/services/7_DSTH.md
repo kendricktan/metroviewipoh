@@ -7,7 +7,8 @@ Img: 7_DSTH.jpg
 * Construction in Progress
     - Estimated Completion Date: Dec 2018
 * Last unit available (Corner unit)
-    - From RM533,800
+    - From RM531,800
 * Promotional deals:
-    - Discount up to RM16,888
+    - Discount up to RM8,000
     - Free 1 year security service
+    - Free legal fees on transfer
